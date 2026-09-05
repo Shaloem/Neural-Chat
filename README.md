@@ -50,4 +50,3 @@ NeuralChat is a high-performance, full-stack AI chatbot platform built using Nod
    Open your browser and navigate to `http://localhost:5000`.
 
 ---
-*Created for Project Demonstration Purposes.*
