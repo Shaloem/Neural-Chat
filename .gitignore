@@ -1,0 +1,7 @@
+node_modules/
+.env
+database/*.db
+database/*.sqlite
+.DS_Store
+FACULTY_PRESENTATION_GUIDE.md
+TEAM_ROLES_AND_TASKS.md
